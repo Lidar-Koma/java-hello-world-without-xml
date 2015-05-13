@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>Hello World without xml file</h3>
+Hello first spring mvc without xml file using Java class configuration
+<h1>spring mvc 4</h1>
 </body>
 </html>
